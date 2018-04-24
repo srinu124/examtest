@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="StiJdbcServletJsp">
+    <wb-module deploy-name="examtest">
         <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
         <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
-        <property name="context-root" value="StiJdbcServletJsp"/>
-        <property name="java-output-path" value="/StiJdbcServletJsp/build/classes"/>
+        <property name="java-output-path" value="/examtest/build/classes"/>
+        <property name="context-root" value="examtest"/>
     </wb-module>
 </project-modules>
